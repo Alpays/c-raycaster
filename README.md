@@ -1,4 +1,6 @@
 # C Raycaster Application
+![ryc](https://github.com/user-attachments/assets/478bf544-2d6c-4bc6-8a14-009998377acf)
+
 This is a raycaster program written in C with SDL graphics library. \
 This tutorial made me understand how Raycasting rendering works as well as fish eye fix.
 https://github.com/vinibiavatti1/RayCastingTutorial/wiki/RayCasting 
